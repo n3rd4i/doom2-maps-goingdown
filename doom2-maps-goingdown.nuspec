@@ -3,17 +3,17 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>doom2-maps-goingdown</id>
-    <version>11.02.14</version>
+    <version>11.02.14.20200628</version>
     <packageSourceUrl>https://github.com/n3rd4i/doom2-maps-goingdown.git</packageSourceUrl>
     <owners>n3rd4i</owners>
     <!-- ============================== -->
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
-    <title>Doom 2 maps - Going down (Install)</title>
+    <title>GoingDown (Doom2 Megawad)</title>
     <authors>mouldy</authors>
     <!-- projectUrl is required for the community feed -->
-    <projectUrl>https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/gd</projectUrl>
+    <projectUrl>https://doomwiki.org/wiki/Going_Down</projectUrl>
     <iconUrl>https://cdn.statically.io/img/upload.wikimedia.org/wikipedia/en/2/29/Doom_II_-_Hell_on_Earth_Coverart.png</iconUrl>
     <copyright>2014 Software Vendor</copyright>
     <!-- If there is a license Url available, it is required for the community feed -->
@@ -27,31 +27,16 @@
     <summary>This is a 32 map Doom 2 megawad</summary>
     <description>
 
-    This is a 32 map Doom 2 megawad - boom format, complevel 9. Each map is a floor, each floor has a lift, each lift needs a key. You'll work it out I'm sure, just keep going down.
-
-    These are small, fairly hard maps with high body-counts, and gameplay I would describe as 'chaotic-evil'. The music tracks are my own compositions which you may use with appropriate credits, here is a track list:
-
-    map 01, 29 - 'Somebody set up us the bomb'
-    map 02, 30, 31 - 'Zombie goes shopping'
-    map 03 - 'The haunted supermarket'
-    map 04, 15 - 'Running from the jazz robots'
-    map 05, 13, 23 - 'The haunted aquarium'
-    map 06, 22 - 'Lost in zombie cyberspace'
-    map 07, 20 - 'Mega robo-clown boss battle'
-    map 08, 14 - 'The haunted waiting room'
-    map 09, 17 - 'The haunted skeleton factory'
-    map 10, 27, 32 - 'Robo-zombie mecha-brain boss battle'
-    map 11, 21 - 'Zombie maggots in the flesh cathedral'
-    map 12, 24 - 'Chased by dancing skeletons'
-    map 16, 28 - 'Wedding march for the princess of death'
-    map 18, 25 - 'Hiding from the robo-zombies'
-    map 19, 26 - 'Attack of the spider-clowns'
-    title screen - 'Going Down'
-    lift muzak - 'Descent of Death'
+    Going Down is a 32-level megawad for Doom II released by Cyriak Harris (mouldy), featuring its own original soundtrack by the same author and a custom DeHackEd boss monster (replacing the Wolfenstein SS). It requires a Boom-compatible source port to play. It is known for its small, fairly hard maps with high body counts, and gameplay the author has described as "chaotic-evil". The WAD was named as a winner of the 21st Annual Cacowards.
 
     </description>
     <releaseNotes>http://www.gamers.org/pub/idgames/levels/doom2/Ports/megawads/gd.txt</releaseNotes>
     <!-- =============================== -->
+
+    <dependencies>
+      <dependency id="freedoom" version="0.12.1"/>
+    </dependencies>
+
   </metadata>
   <files>
     <file src="tools\**" target="tools" />

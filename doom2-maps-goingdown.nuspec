@@ -17,10 +17,10 @@
     <iconUrl>https://cdn.statically.io/img/upload.wikimedia.org/wikipedia/en/2/29/Doom_II_-_Hell_on_Earth_Coverart.png</iconUrl>
     <copyright>2014 Software Vendor</copyright>
     <!-- If there is a license Url available, it is required for the community feed -->
-    <licenseUrl>http://www.gamers.org/pub/idgames/levels/doom2/Ports/megawads/gd.txt</licenseUrl>
-    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <!-- <licenseUrl>http://www.gamers.org/pub/idgames/levels/doom2/Ports/megawads/gd.txt</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance> -->
     <!--<projectSourceUrl>Software Source Location - is the software FOSS somewhere? Link to it with this</projectSourceUrl>-->
-    <docsUrl>http://www.gamers.org/pub/idgames/levels/doom2/Ports/megawads/gd.txt</docsUrl>
+    <!-- <docsUrl>https://doomwiki.org/wiki/Going_Down</docsUrl> -->
     <mailingListUrl>https://www.doomworld.com/forum/topic/65955-going-down-bug-fix-update-220815/</mailingListUrl>
     <!--<bugTrackerUrl></bugTrackerUrl>-->
     <tags>doom2-maps-goingdown doom2 maps megawad wad</tags>

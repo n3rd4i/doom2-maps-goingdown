@@ -3,7 +3,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>doom2-maps-goingdown</id>
-    <version>11.02.14.20200628</version>
+    <version>11.02.14.20200823</version>
     <packageSourceUrl>https://github.com/n3rd4i/doom2-maps-goingdown.git</packageSourceUrl>
     <owners>n3rd4i</owners>
     <!-- ============================== -->
@@ -27,7 +27,13 @@
     <summary>This is a 32 map Doom 2 megawad</summary>
     <description>
 
-    Going Down is a 32-level megawad for Doom II released by Cyriak Harris (mouldy), featuring its own original soundtrack by the same author and a custom DeHackEd boss monster (replacing the Wolfenstein SS). It requires a Boom-compatible source port to play. It is known for its small, fairly hard maps with high body counts, and gameplay the author has described as "chaotic-evil". The WAD was named as a winner of the 21st Annual Cacowards.
+Going Down is a 32-level megawad for Doom II released by Cyriak Harris (mouldy), featuring its own original soundtrack by the same author and a custom DeHackEd boss monster (replacing the Wolfenstein SS).
+
+It requires a Boom-compatible source port to play.
+
+It is known for its small, fairly hard maps with high body counts, and gameplay the author has described as "chaotic-evil".
+
+The WAD was named as a winner of the 21st Annual Cacowards.
 
     </description>
     <releaseNotes>http://www.gamers.org/pub/idgames/levels/doom2/Ports/megawads/gd.txt</releaseNotes>
